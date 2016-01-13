@@ -11,7 +11,7 @@ import com.project.dao.SettingsDAO;
 import com.project.exception.AppException;
 import com.project.model.Settings;
 
-@Path("/setting")
+@Path("/settings")
 public class SettingsController {
 
 	@GET
